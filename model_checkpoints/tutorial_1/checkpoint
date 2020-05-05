@@ -1,0 +1,2 @@
+model_checkpoint_path: "simpleCNN-checkpoint-20.ckpt"
+all_model_checkpoint_paths: "simpleCNN-checkpoint-20.ckpt"
